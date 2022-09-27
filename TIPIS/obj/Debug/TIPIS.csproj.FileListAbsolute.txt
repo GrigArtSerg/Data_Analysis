@@ -1,0 +1,44 @@
+E:\Artem\Программирование\TIPIS\TIPIS\bin\Debug\TIPIS.exe.config
+E:\Artem\Программирование\TIPIS\TIPIS\bin\Debug\TIPIS.exe
+E:\Artem\Программирование\TIPIS\TIPIS\bin\Debug\TIPIS.pdb
+E:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.csprojResolveAssemblyReference.cache
+E:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Main.resources
+E:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Properties.Resources.resources
+E:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.csproj.GenerateResource.Cache
+E:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.exe
+E:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.pdb
+E:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Stabform.resources
+E:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Synthform.resources
+E:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Analysisform.resources
+G:\Artem\Программирование\TIPIS\TIPIS\bin\Debug\TIPIS.exe.config
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.exe
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.pdb
+G:\Artem\Программирование\TIPIS\TIPIS\bin\Debug\TIPIS.exe
+G:\Artem\Программирование\TIPIS\TIPIS\bin\Debug\TIPIS.pdb
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.csprojResolveAssemblyReference.cache
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Analysisform.resources
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Main.resources
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Properties.Resources.resources
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Stabform.resources
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Synthform.resources
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.csproj.GenerateResource.Cache
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Optform.resources
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.Batchform.resources
+G:\Artem\Программирование\TIPIS\TIPIS\obj\Debug\TIPIS.AAform.resources
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\bin\Debug\TIPIS.exe.config
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\bin\Debug\TIPIS.exe
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\bin\Debug\TIPIS.pdb
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.csprojAssemblyReference.cache
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.AAform.resources
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.Analysisform.resources
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.Batchform.resources
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.Main.resources
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.Optform.resources
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.Properties.Resources.resources
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.Stabform.resources
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.Synthform.resources
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.csproj.GenerateResource.cache
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.csproj.CoreCompileInputs.cache
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.exe
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.pdb
+F:\Archaic Tome Folder\Artem\Programming\TIPIS\TIPIS\obj\Debug\TIPIS.Taylorform.resources
